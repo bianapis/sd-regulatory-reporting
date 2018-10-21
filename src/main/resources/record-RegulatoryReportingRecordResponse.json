@@ -1,0 +1,14 @@
+{
+  "productServiceReference" : "54765437",
+  "reportingPeriod" : "01/01/2018-10/10/2018",
+  "recordingRecordReference" : "RRR3456",
+  "customerReference" : "787564",
+  "transactionRecords" : "62",
+  "businessUnitEmployeeReference" : "68585345",
+  "regulatoryReportType" : "RRT3465",
+  "regulationReference" : "57547854",
+  "regulatoryReportingTaskRecord" : "23456",
+  "regulationComplianceReportingRequirements" : "RR11",
+  "regulatoryReportingConsolidationTaskReference" : "76439839",
+  "recordingRecordStatus" : "Applied"
+}
